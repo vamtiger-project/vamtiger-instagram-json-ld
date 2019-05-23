@@ -13,4 +13,4 @@ export interface ILoadScript {
     data: IAnyObject;
 }
 
-export const url = 'https://unpkg.com/vamtiger-instagram-json-ld@latest';
+export const url = 'https://unpkg.com/vamtiger-instagram-icon-json-ld@latest';
