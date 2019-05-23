@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-instagram-json-ld",
-    "version": "0.0.3-0",
+    "version": "0.0.3",
     "description": "VAMTIGER Instagram JSON-LD",
     "main": "build/vamtiger-instagram-json-ld",
     "scripts": {
